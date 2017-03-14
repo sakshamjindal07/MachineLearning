@@ -7,12 +7,12 @@ This repository contains various Ipython Notebooks that I have created in order 
 
 Titanic Survival Prediction - Classification Problem
 
-<a href="http://nbviewer.jupyter.org/github/sakshamjindal07/MachineLearning/blob/master/Kaggle/Titanic/Stacking%20With%20XGBOOST%20on%20Titanic%20Data.ipynb"> Data Cleaning and Stacking with XGBoost</a><br/>
+-<a href="http://nbviewer.jupyter.org/github/sakshamjindal07/MachineLearning/blob/master/Kaggle/Titanic/Stacking%20With%20XGBOOST%20on%20Titanic%20Data.ipynb"> Data Cleaning and Stacking with XGBoost</a><br/>
 
 Housing Prices Prediction - Regression Problem <br />
-<a href="http://nbviewer.jupyter.org/github/sakshamjindal07/MachineLearning/blob/master/Kaggle/Housing%20Prices%20Prediction/Data%20Cleaning_and_Dimensionality%20Reduction.ipynb"> Data Cleaning </a><br/>
-<a href="http://nbviewer.jupyter.org/github/sakshamjindal07/MachineLearning/blob/master/Kaggle/Housing%20Prices%20Prediction/Data%20Cleaning_and_Dimensionality%20Reduction.ipynb"> Random Forest and Optimisation of Parameters </a><br/>
-<a href="http://nbviewer.jupyter.org/github/sakshamjindal07/MachineLearning/blob/master/Kaggle/Housing%20Prices%20Prediction/Data%20Cleaning_and_Dimensionality%20Reduction.ipynb"> Lasso and Ridge Regression </a><br/>
+-<a href="http://nbviewer.jupyter.org/github/sakshamjindal07/MachineLearning/blob/master/Kaggle/Housing%20Prices%20Prediction/Data%20Cleaning_and_Dimensionality%20Reduction.ipynb"> Data Cleaning </a><br/>
+-<a href="http://nbviewer.jupyter.org/github/sakshamjindal07/MachineLearning/blob/master/Kaggle/Housing%20Prices%20Prediction/Data%20Cleaning_and_Dimensionality%20Reduction.ipynb"> Random Forest and Optimisation of Parameters </a><br/>
+-<a href="http://nbviewer.jupyter.org/github/sakshamjindal07/MachineLearning/blob/master/Kaggle/Housing%20Prices%20Prediction/Data%20Cleaning_and_Dimensionality%20Reduction.ipynb"> Lasso and Ridge Regression </a><br/>
 
 
 #### Coursera - Machine Learning by Prof. Andrew NG, Stanford University
